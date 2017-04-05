@@ -85,3 +85,10 @@ i{
   text-align: center;
   color: white;
 }
+.bio{
+  padding:40px;
+  text-align: justify;
+  font-size: 21pt;
+  background-color:#221818;
+color:white;
+}
