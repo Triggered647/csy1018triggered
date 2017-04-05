@@ -92,3 +92,30 @@ i{
   background-color:#221818;
 color:white;
 }
+.part1{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  padding:0px 20px;
+}
+.part2{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  padding:0px 20px;
+
+
+}
+.Education{
+  margin-left: 450px;
+}
+.Experiences{
+  margin-left: 725px;
+  }
+.cv{
+  padding:60px 0px;
+  font-size: 15pt;
+  background-color: #221818;
+  color: white;
+
+}
