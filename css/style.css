@@ -36,9 +36,25 @@ header{
   color: blue;
 }
 .index{
-  background-color: rgb(204, 204, 204);
+  background-color:rgb(255, 51, 153);
   height: 600px;
+  display: flex;
+  flex-direction: row;
 }
+.photo{
+  width: 50%;
+}
+.photo img{
+  height: 70%;
+  width: 70%;
+  padding: 5%;
+  border-radius: 50%;
+}
+.photo h1{
+  font-size: 2em;
+  padding-left: 25%;
+}
+
 
 
 
