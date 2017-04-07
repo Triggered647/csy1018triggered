@@ -121,3 +121,11 @@ i{
   text-align: center;
   color: white;
 }
+@media screen (max-width:768px){
+  .main{
+    font-size: 40pt;
+    }
+    .main h1{
+      font-size: 40pt;
+    }
+}
