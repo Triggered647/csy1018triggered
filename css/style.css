@@ -10,6 +10,7 @@ header{
   width: 50%;
   color: white;
   text-align: center;
+  /*it will place the text at the center of the page*/
 }
 .logo h2{
   font-style: oblique;
@@ -122,6 +123,7 @@ i{
   color: white;
 }
 @media screen (max-width:768px){
+  /*it will make the screen responsive to many devices*/
   .main{
     font-size: 40pt;
     }
